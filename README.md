@@ -1,4 +1,7 @@
 ## Hi there 👋
+## 🔭 As soon as I can, I will be working on a mythological roguelike
+## 🌱 I’m currently learning C programming and Algorithms and Data Structures
+## 😄 Pronouns: He/Him
 
 <!--
 **brettzenneuvic/brettzenneuvic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
