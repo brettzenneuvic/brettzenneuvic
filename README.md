@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 🔭 As soon as I can, I will be working on a mythological roguelike
-## 🌱 I’m currently about Algorithms and Data Structures
+## 🌱 I’m currently learning about Algorithms and Data Structures
 ## 😄 Pronouns: He/Him
 
 <!--
